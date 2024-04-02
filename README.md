@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <img src="/hacklogo.png" height="300px" width="1000px" alt="HackXcelerate'24 Logo">
+  <img src="/hacklogo.png" height="100px" width="100px" alt="HackXcelerate'24 Logo">
   <h1>HackXcelerate'24</h1>
   <h3>powered by VJTI TBI and in association with CE/IT Department of VJTI</h3>
 </div>
